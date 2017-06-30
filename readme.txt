@@ -6,3 +6,4 @@ Install git-gui successfully!
 Try to understand how to use git gui.
 
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
